@@ -1,4 +1,4 @@
-# 底部菜单的Demo
+# 加载视图-交替圆效果
 
 ### 一、截图
 ![image](https://github.com/VainAnts/AlterCircleView/blob/master/screenshot/alter_circle.gif)
